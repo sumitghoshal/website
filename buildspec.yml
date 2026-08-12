@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "949677835615"
-    REPOSITORY_NAME: "website"
+    REPOSITORY_NAME: "website-sumit"
     CONTAINER_NAME: "website"
     CLUSTER_NAME: "websitecluster"
     AWS_DEFAULT_REGION: "ap-south-1"
